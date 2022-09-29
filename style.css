@@ -35,21 +35,18 @@
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {
-  color: var(--dl-color-gray-black);
   display: inline-block;
   padding: 0.5rem 1rem;
-  border-color: var(--dl-color-gray-black);
   border-width: 1px;
-  border-radius: 4px;
+  border-radius: 2px;
   background-color: var(--dl-color-gray-white);
 }
 .input {
   color: var(--dl-color-gray-black);
   cursor: auto;
   padding: 0.5rem 1rem;
-  border-color: var(--dl-color-gray-black);
   border-width: 1px;
-  border-radius: 4px;
+  border-radius: 2px;
   background-color: var(--dl-color-gray-white);
 }
 .textarea {
@@ -75,6 +72,10 @@
 .teleport-show {
   display: flex !important;
 }
+
+
+
+
 
 
 .content {
